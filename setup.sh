@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
 brew update
-which code || brew cask install visual-studio-code
+which code || brew install --cask visual-studio-code
 which python3 || brew install python3
 which git || brew install git
-which VBoxManage || brew cask install virtualbox
-which vagrant || brew cask install vagrant
-stat /Applications/Cyberduck.app || brew cask install cyberduck
-brew cask install intellij-idea-ce
+which VBoxManage || brew install --cask virtualbox
+which vagrant || brew install --cask vagrant
+stat /Applications/Cyberduck.app || brew install --cask cyberduck
+brew install --cask intellij-idea-ce
 stat /Applications/GoLand.app || brew cask install goland
-brew cask install iterm2
+brew install --cask iterm2
