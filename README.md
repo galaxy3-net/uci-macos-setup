@@ -4,4 +4,4 @@ Setting up MacOS for UCI Cybersecurity Bootcamp
 ## Install Base Packages
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-sudo bash -c "$(curl -s )"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/galaxy3-net/uci-macos-setup/dev/setup.sh)"
