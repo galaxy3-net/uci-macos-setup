@@ -7,6 +7,6 @@ which git || brew install git
 which VBoxManage || brew install --cask virtualbox
 which vagrant || brew install --cask vagrant
 stat /Applications/Cyberduck.app || brew install --cask cyberduck
-brew install --cask intellij-idea-ce
+stat "/Applications/IntelliJ IDEA CE.app" || brew  install --cask intellij-idea-ce
 stat /Applications/GoLand.app || brew cask install goland
-brew install --cask iterm2
+stat /Applications/iTerm.app || brew install --cask iterm2
