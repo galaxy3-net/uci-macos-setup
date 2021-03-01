@@ -5,7 +5,7 @@ Setting up MacOS for UCI Cybersecurity Bootcamp
 
 Follow the instructions below for setting up the "UCI Cybersecurity Bootcamp" tools on your MacOS desktop or laptop. 
 
-If you are running on Windows, go to the following repository for instructions.  If you are having any problems, watch this [Video](https://youtu.be/Mc7-j4RJAGw).
+If you are running on Windows, go to the following repository for instructions.  If you are having any problems, watch this [Video](https://www.youtube.com/watch?v=Lu2lcrNQZN4&feature=youtu.be).
 
 Now Let's Install
 
