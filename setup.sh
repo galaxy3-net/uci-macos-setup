@@ -12,4 +12,4 @@ stat "/Applications/Cyberduck.app" || brew install --cask cyberduck
 stat "/Applications/IntelliJ IDEA CE.app" || brew  install --cask intellij-idea-ce
 stat "/Applications/GoLand.app" || brew install --cask goland
 stat "/Applications/iTerm.app" || brew install --cask iterm2
-which wireshark || brew install wireshark
+which wireshark || brew install --cask wireshark
