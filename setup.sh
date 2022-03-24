@@ -13,3 +13,4 @@ stat "/Applications/IntelliJ IDEA CE.app" || brew  install --cask intellij-idea-
 stat "/Applications/GoLand.app" || brew install --cask goland
 stat "/Applications/iTerm.app" || brew install --cask iterm2
 which wireshark || brew install --cask wireshark
+brew install royal-tsx
