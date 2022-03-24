@@ -14,3 +14,10 @@ stat "/Applications/GoLand.app" || brew install --cask goland
 stat "/Applications/iTerm.app" || brew install --cask iterm2
 which wireshark || brew install --cask wireshark
 brew install royal-tsx
+
+[ -e  "~\Documents\Azure Labs.rtsz" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/Azure Labs.rtsz" --outfile "~\Documents\Azure Labs.rtsz"
+
+[ -e  "~\Documents\UCI-Cybersecurity.rtsz" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/UCI-Cybersecurity.rtsz" --outfile "~\Documents\UCI-Cybersecurity.rtsz"
+
+[ -e  "~\Documents\UCI-Cybersecurity.html" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/UCI-Cybersecurity.html" --outfile "~\Documents\UCI-Cybersecurity.html"
+
