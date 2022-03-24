@@ -15,9 +15,9 @@ stat "/Applications/iTerm.app" || brew install --cask iterm2
 which wireshark || brew install --cask wireshark
 brew install royal-tsx
 
-[ -e  "~\Documents\Azure Labs.rtsz" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/Azure Labs.rtsz" --output "${HOME}\Documents\Azure Labs.rtsz"
+[ -e  "~/Documents/Azure Labs.rtsz" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/Azure Labs.rtsz" --output "${HOME}/Documents/Azure Labs.rtsz"
 
-[ -e  "~\Documents\UCI-Cybersecurity.rtsz" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/UCI-Cybersecurity.rtsz" --output "${HOME}\Documents\UCI-Cybersecurity.rtsz"
+[ -e  "~/Documents/UCI-Cybersecurity.rtsz" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/UCI-Cybersecurity.rtsz" --output "${HOME}/Documents/UCI-Cybersecurity.rtsz"
 
-[ -e  "~\Documents\UCI-Cybersecurity.html" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/UCI-Cybersecurity.html" --output "${HOME}\Documents\UCI-Cybersecurity.html"
+[ -e  "~/Documents/UCI-Cybersecurity.html" ] || curl "https://raw.githubusercontent.com/galaxy3-net/uci-windows-setup/dev/files/UCI-Cybersecurity.html" --output "${HOME}/Documents/UCI-Cybersecurity.html"
 
